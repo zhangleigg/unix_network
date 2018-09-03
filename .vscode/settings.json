@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "unp.h": "c",
+        "unistd.h": "c"
+    },
+    "terminal.integrated.shell.windows": "C:/Windows/System32/bash.exe",
+    "files.encoding": "utf8",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    }
+}
