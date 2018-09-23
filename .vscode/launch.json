@@ -8,10 +8,10 @@
             "name": "C++ Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "/mnt/e/Study/unix_network/${fileBasenameNoExtension}.out",
+            "program": "/mnt/d/Code/Study/unix_network/${fileBasenameNoExtension}.out",
             "args": ["-fThreading"],
             "stopAtEntry": false,
-            "cwd": "/mnt/e/Study/unix_network",
+            "cwd": "/mnt/d/Code/Study/unix_network",
             "environment": [],
             "externalConsole": true,
             "windows": {
@@ -31,7 +31,7 @@
                 "debuggerPath": "/usr/bin/gdb"
             },
             "sourceFileMap": {
-                "/mnt/e": "e:\\"
+                "/mnt/d": "d:\\"
             }
         }
     ]

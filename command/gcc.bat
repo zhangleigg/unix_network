@@ -1,1 +1,1 @@
-bash -c "gcc -g /mnt/g/Study/unix_network/%1 -o /mnt/g/Study/unix_network/%2 -lunp"
+bash -c "gcc -g /mnt/d/Code/Study/unix_network/%1 -o /mnt/d/Code/Study/unix_network/%2 -lunp"
